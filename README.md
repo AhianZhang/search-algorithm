@@ -6,3 +6,4 @@
 - [ ] 词频-逆文档频率 tf-idf
 - [ ] 二分查找 binary search
 - [ ] 倒排索引 invert index
+- [ ] 最近最少使用 least recently used 
